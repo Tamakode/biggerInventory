@@ -1,0 +1,7 @@
+{
+	"author" : "Tamako",
+	"description" : "Increases the inventory bags' size from 40 to 60.",
+	"friendlyName" : "Bigger Inventory",
+	"name" : "biggerInventory",
+	"version" : "1.0"
+}

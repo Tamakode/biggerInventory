@@ -1,0 +1,25 @@
+[ {
+"op" : "replace",
+"path" : "/inventory/itemBags/mainBag/size",
+"value" : 60
+},
+{
+"op" : "replace",
+"path" : "/inventory/itemBags/materialBag/size",
+"value" : 60
+},
+{
+"op" : "replace",
+"path" : "/inventory/itemBags/objectBag/size",
+"value" : 60
+},
+{
+"op" : "replace",
+"path" : "/inventory/itemBags/reagentBag/size",
+"value" : 60
+},
+{
+"op" : "replace",
+"path" : "/inventory/itemBags/foodBag/size",
+"value" : 60
+} ]
